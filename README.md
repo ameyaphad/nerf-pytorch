@@ -1,4 +1,4 @@
-# Neural Radiance Fields (NeRF) algorithm implementatin using PyTorch
+# Neural Radiance Fields (NeRF) algorithm implementation using PyTorch
 Implementation of the Neural Radiance Fields(NeRF) algorithm for 3D reconstruction.
 
 Results for reconstruction for the Lego Dataset:
