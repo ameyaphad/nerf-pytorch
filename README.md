@@ -7,11 +7,8 @@ Results for reconstruction for the Lego Dataset:
 </p>
 
 ### For Training
-'''bash
 python3 Wrapper.py --mode 'train'
-'''
+
 
 ### For Testing
-'''bash
 python3 Wrapper.py --mode 'test'
-'''
