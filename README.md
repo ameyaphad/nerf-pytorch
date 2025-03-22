@@ -3,12 +3,15 @@ Implementation of the Neural Radiance Fields(NeRF) algorithm for 3D reconstructi
 
 Results for reconstruction for the Lego Dataset:
 <p align='center'>
-    <img src="NeRF_Lego.gif" alt="drawing" width="800"/>
+    <img src="NeRF_Lego.gif" alt="drawing" width="400"/>
 </p>
 
-## TO RUN CODE for NeRF, NAVIGATE INSIDE PHASE2 FOLDER AND RUN THE FOLLOWING COMMAND:
-### FOR TRAINING
-'python3 Wrapper.py --mode 'train'' 
+### For Training
+'''bash
+python3 Wrapper.py --mode 'train'
+'''
 
-### FOR TESTING
-'python3 Wrapper.py --mode 'test''
+### For Testing
+'''bash
+python3 Wrapper.py --mode 'test'
+'''
